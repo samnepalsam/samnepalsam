@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**samnepalsam/samnepalsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm **Sam Nepal**, a passionate **Computer Engineering** student at **George Mason University**, graduating in **December 2024**. I enjoy working on **embedded systems, FPGA design, circuit analysis, and software development**.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- **Embedded systems projects** involving microcontrollers and Python programming.
+- **VHDL design** and FPGA implementations using BASYS-3.
+- **Data structures in C** to solve real-world optimization problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- Advanced **networking protocols** and software development methodologies.
+- **AutoCAD** for circuit and PCB design.
+- Real-world applications of **finite state machines**.
+
+### 👯 I’m looking to collaborate on:
+- **IoT projects** that integrate embedded hardware with cloud applications.
+- **FPGA-based logic designs** and optimization techniques.
+- **Software development** with Python, Java, and C.
+
+### 💬 Ask me about:
+- **Embedded systems and VHDL design**
+- **Networking and IT support**
+- **Data structures and algorithms in C**
+
+### 📫 How to reach me:
+- 📧 Email: [trustsam@gmail.com](mailto:trustsam@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sam-nepal-gmu/)
+- 🌍 Location: Reston, VA
+
+### ⚡ Fun fact:
+I have **strong managerial and communication skills**, balancing my technical expertise with real-world leadership experience at **CVS Health**.
+
+Let's connect and build something amazing! 🚀
