@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm **Sam Nepal**, a passionate **Computer Engineering** student at **George Mason University**, graduating in **December 2024**. I enjoy working on **embedded systems, FPGA design, circuit analysis, and software development**.
+Welcome to my GitHub! I'm **Sam Nepal**, a passionate **Computer Engineer** from **George Mason University**, graduated in **December 2024**. I enjoy working on **embedded systems, FPGA design, circuit analysis, and software development**.
 
 ### 🔭 I’m currently working on:
 - **Embedded systems projects** involving microcontrollers and Python programming.
