@@ -29,7 +29,7 @@ I thrive in **challenging and innovative environments**, leveraging my **problem
 - **Data structures and algorithms in C**
 - **Linear Electronics and Smart Grid**
 - **Continuous and Digital signal Processing**
-- ** Power Generation and Transmission Systems**
+- **Power Generation and Transmission Systems**
   
 
 
