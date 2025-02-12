@@ -20,6 +20,7 @@ I thrive in **challenging and innovative environments**, leveraging my **problem
 - **IoT projects** that integrate embedded hardware with cloud applications.
 - **FPGA-based logic designs** and optimization techniques.
 - **Software development** with Python, Java, and C.
+- **Linux** based embedded system and development environment 
 
 ### 💬 Ask me about:
 - **Embedded systems and Smart IoTs**
