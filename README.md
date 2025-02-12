@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm **Sam Nepal**, a passionate **Computer Engineer** from **George Mason University**, graduated in **December 2024**. I enjoy working on **embedded systems, FPGA design, circuit analysis, and software development**.
+Welcome to my GitHub! I'm **Sam Nepal**, a **highly motivated and results-driven Computer Engineer**, recently graduated from **George Mason University** in **Fairfax, VA**, with **Magna Cum Laude honors** and a **GPA of 3.82**. My passion lies in **embedded systems, FPGA design, RF signal processing, cryptography, microcontroller programming, and software development**.
+
+Throughout my academic and professional journey, I have honed my expertise in **hardware-software integration, low-level programming, and digital system design**. My **hands-on experience** with microcontrollers has enabled me to design and implement **high-performance embedded systems**, focusing on **sensor interfacing, communication protocols, automation, and secure data transmission**.
+
+I thrive in **challenging and innovative environments**, leveraging my **problem-solving mindset and analytical skills** to tackle complex engineering problems. With a relentless drive for **continuous learning and improvement**, I am eager to contribute to **cutting-edge technological advancements** that push the boundaries of modern engineering.
 
 ### 🔭 I’m currently working on:
 - **Embedded systems projects** involving microcontrollers and Python programming.
@@ -18,9 +22,10 @@ Welcome to my GitHub! I'm **Sam Nepal**, a passionate **Computer Engineer** from
 - **Software development** with Python, Java, and C.
 
 ### 💬 Ask me about:
-- **Embedded systems and VHDL design**
+- **Embedded systems and Smart IoTs**
 - **Networking and IT support**
 - **Data structures and algorithms in C**
+- **Linear Electronics and Smart Grid**
 
 ### 📫 How to reach me:
 - 📧 Email: [trustsam@gmail.com](mailto:trustsam@gmail.com)
