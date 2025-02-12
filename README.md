@@ -20,13 +20,18 @@ I thrive in **challenging and innovative environments**, leveraging my **problem
 - **IoT projects** that integrate embedded hardware with cloud applications.
 - **FPGA-based logic designs** and optimization techniques.
 - **Software development** with Python, Java, and C.
-- **Linux** based embedded system and development environment 
+- **Linux** based embedded system and development environment
+- **Big Data** and data structure
 
 ### 💬 Ask me about:
 - **Embedded systems and Smart IoTs**
 - **Networking and IT support**
 - **Data structures and algorithms in C**
 - **Linear Electronics and Smart Grid**
+- **Continuous and Digital signal Processing**
+- ** Power Generation and Transmission Systems**
+  
+
 
 ### 📫 How to reach me:
 - 📧 Email: [trustsam@gmail.com](mailto:trustsam@gmail.com)
